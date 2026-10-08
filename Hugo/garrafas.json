@@ -1,0 +1,66 @@
+[
+  {
+    "marca": "Coca-cola",
+    "quantidade": 20,
+    "capacidade": 200000.0,
+    "conteudo": "Coca-Cola",
+    "preco": 200.0,
+    "ID": 0
+  },
+  {
+    "marca": "Cokes",
+    "quantidade": 20,
+    "capacidade": 200000.0,
+    "conteudo": "Fanta",
+    "preco": 300.0,
+    "ID": 1
+  },
+  {
+    "marca": "Coca-cola",
+    "quantidade": 20,
+    "capacidade": 200000.0,
+    "conteudo": "Coca-Cola",
+    "preco": 200.0,
+    "ID": 0
+  },
+  {
+    "marca": "Cokes",
+    "quantidade": 20,
+    "capacidade": 200000.0,
+    "conteudo": "Fanta",
+    "preco": 300.0,
+    "ID": 1
+  },
+  {
+    "marca": "Coca-cola",
+    "quantidade": 20,
+    "capacidade": 200000.0,
+    "conteudo": "Coca-Cola",
+    "preco": 200,
+    "ID": 0
+  },
+  {
+    "marca": "Cokes",
+    "quantidade": 20,
+    "capacidade": 200000.0,
+    "conteudo": "Fanta",
+    "preco": 300,
+    "ID": 1
+  },
+  {
+    "marca": "Coca-cola",
+    "quantidade": 20,
+    "capacidade": 200000.0,
+    "conteudo": "Coca-Cola",
+    "preco": 200,
+    "ID": 0
+  },
+  {
+    "marca": "Cokes",
+    "quantidade": 20,
+    "capacidade": 200000.0,
+    "conteudo": "Fanta",
+    "preco": 300,
+    "ID": 1
+  }
+]
